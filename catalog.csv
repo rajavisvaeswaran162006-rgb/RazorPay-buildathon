@@ -1,0 +1,141 @@
+id,name,category,price,description,stock
+1,HP 15s,Laptops,54990,"15.6-inch laptop with Intel Core i5, 16GB RAM and 512GB SSD",18
+2,HP Pavilion 14,Laptops,63990,"14-inch laptop with Intel Core i5, 16GB RAM and 512GB SSD",14
+3,Dell Inspiron 15,Laptops,57990,"15.6-inch laptop with Intel Core i5, 16GB RAM and 512GB SSD",16
+4,Dell Vostro 3520,Laptops,54990,15.6-inch business laptop with Intel Core i5 and 512GB SSD,12
+5,Lenovo IdeaPad Slim 3,Laptops,49990,"15.6-inch laptop with Ryzen 5, 16GB RAM and 512GB SSD",20
+6,Lenovo ThinkPad E14,Laptops,69990,14-inch business laptop with Intel Core i5 and 512GB SSD,10
+7,ASUS Vivobook 15,Laptops,52990,"15.6-inch laptop with Intel Core i5, 16GB RAM and 512GB SSD",15
+8,ASUS TUF Gaming F15,Laptops,74990,"15.6-inch gaming laptop with Core i5, RTX graphics and 512GB SSD",8
+9,Acer Aspire 3,Laptops,42990,"15.6-inch laptop with Ryzen 5, 8GB RAM and 512GB SSD",22
+10,Apple MacBook Air M2,Laptops,89990,"13.6-inch laptop with Apple M2 chip, 8GB memory and 256GB SSD",7
+11,Samsung Galaxy A35 5G,Smartphones,30999,5G smartphone with AMOLED display and 128GB storage,25
+12,Samsung Galaxy S24,Smartphones,74999,Premium 5G smartphone with AMOLED display and 256GB storage,12
+13,OnePlus Nord CE 4,Smartphones,24999,5G smartphone with fast charging and 128GB storage,28
+14,OnePlus 12R,Smartphones,39999,Performance-focused 5G smartphone with 256GB storage,14
+15,Redmi Note 13 Pro,Smartphones,27999,5G smartphone with high-resolution camera and 256GB storage,26
+16,Xiaomi 14 Civi,Smartphones,44999,Premium mid-range 5G smartphone with AMOLED display,11
+17,realme 12 Pro+,Smartphones,29999,5G smartphone with telephoto camera and 256GB storage,19
+18,realme Narzo 70 Pro,Smartphones,23999,5G smartphone with AMOLED display and 128GB storage,24
+19,iPhone 15,Smartphones,69999,Apple 5G smartphone with 128GB storage and advanced camera system,13
+20,Nothing Phone (2a),Smartphones,23999,5G smartphone with clean Android experience and 128GB storage,21
+21,Samsung Galaxy Tab S9 FE,Tablets,39999,10.9-inch tablet with S Pen support and 128GB storage,15
+22,Samsung Galaxy Tab A9+,Tablets,21999,11-inch tablet with 8GB RAM and 128GB storage,24
+23,Apple iPad 10th Gen,Tablets,37999,10.9-inch iPad with 64GB storage and USB-C,18
+24,Apple iPad Air,Tablets,59999,10.9-inch tablet with Apple silicon and 128GB storage,9
+25,OnePlus Pad Go,Tablets,19999,11.35-inch tablet with 128GB storage and large battery,22
+26,OnePlus Pad,Tablets,37999,11.61-inch high-refresh tablet with 128GB storage,12
+27,Lenovo Tab M11,Tablets,19999,11-inch tablet with 128GB storage and quad speakers,20
+28,Lenovo Tab P12,Tablets,29999,12.7-inch productivity tablet with 128GB storage,13
+29,Xiaomi Pad 6,Tablets,29999,11-inch 144Hz tablet with Snapdragon platform and 256GB storage,17
+30,realme Pad 2,Tablets,21999,11.5-inch tablet with 128GB storage and high-refresh display,16
+31,LG 24MP60G,Monitors,10999,24-inch Full HD IPS monitor for work and home use,20
+32,LG 27MP60G,Monitors,13999,27-inch Full HD IPS monitor with slim bezels,14
+33,Samsung Essential S3 24,Monitors,11999,24-inch Full HD IPS monitor for everyday productivity,18
+34,Samsung Smart Monitor M5 27,Monitors,24999,27-inch smart monitor with Full HD resolution,10
+35,Acer Nitro VG240Y,Monitors,12999,23.8-inch Full HD gaming monitor with high refresh rate,16
+36,Acer Nitro XV272U,Monitors,23999,27-inch QHD gaming monitor with high refresh rate,9
+37,ASUS TUF VG27AQ,Monitors,29999,27-inch QHD gaming monitor with high refresh rate,8
+38,BenQ GW2480,Monitors,10999,24-inch Full HD IPS monitor for office and study use,22
+39,Dell S2421H,Monitors,13999,24-inch Full HD IPS monitor with dual speakers,13
+40,MSI G244F,Monitors,14999,24-inch Full HD Rapid IPS gaming monitor,11
+41,Sony WH-1000XM5,Headphones,29999,Premium wireless noise-cancelling over-ear headphones,8
+42,Sony WH-CH720N,Headphones,9999,Wireless noise-cancelling over-ear headphones,18
+43,JBL Tune 770NC,Headphones,6999,Wireless over-ear headphones with adaptive noise cancellation,20
+44,JBL Live 660NC,Headphones,9999,Wireless headphones with adaptive noise cancellation,15
+45,boAt Rockerz 550,Headphones,1999,Wireless over-ear headphones with long battery life,35
+46,boAt Nirvana 751 ANC,Headphones,2999,Wireless ANC headphones with low-latency mode,28
+47,Sennheiser HD 450BT,Headphones,9999,Wireless over-ear headphones with aptX support,12
+48,Sennheiser HD 599,Headphones,12999,Open-back wired headphones for detailed listening,9
+49,OnePlus Nord Buds 2,Headphones,2299,True wireless earbuds with active noise cancellation,32
+50,realme Buds Air 5 Pro,Headphones,3999,True wireless earbuds with ANC and dual-device support,24
+51,JBL Flip 6,Speakers,11999,Portable Bluetooth speaker with powerful sound and IP67 rating,14
+52,JBL Go 3,Speakers,3499,Compact portable Bluetooth speaker with waterproof design,30
+53,Sony SRS-XB100,Speakers,4999,Compact Bluetooth speaker with strong battery life,22
+54,Sony SRS-XE300,Speakers,14999,Portable Bluetooth speaker with wide sound dispersion,10
+55,boAt Stone 350,Speakers,1499,Portable Bluetooth speaker with stereo sound,38
+56,boAt Stone 1200,Speakers,3999,High-output portable Bluetooth speaker with LED lighting,19
+57,Marshall Emberton II,Speakers,16999,Premium portable Bluetooth speaker with stereo sound,7
+58,Marshall Willen,Speakers,9999,Compact portable Bluetooth speaker with rugged design,11
+59,Portronics Sound Drum 1,Speakers,1799,Portable Bluetooth speaker for home and travel,26
+60,Zebronics Zeb-Sound Feast,Speakers,2299,Portable Bluetooth party speaker with lighting,25
+61,Logitech M185,Mouse,699,Wireless optical mouse for everyday laptop and desktop use,60
+62,Logitech M331,Mouse,1199,Silent wireless mouse with ergonomic design,48
+63,Logitech MX Master 3S,Mouse,7999,Premium wireless productivity mouse with multi-device support,10
+64,HP X1000,Mouse,599,Wired optical mouse for everyday computing,55
+65,HP Z3700,Mouse,999,Slim wireless mouse designed for laptops,36
+66,Dell WM126,Mouse,899,Wireless optical mouse for office and home use,42
+67,Dell MS116,Mouse,499,Wired optical mouse for basic desktop use,58
+68,Razer DeathAdder Essential,Mouse,1799,Ergonomic gaming mouse with high-precision sensor,20
+69,Razer Basilisk V3,Mouse,4999,Gaming mouse with programmable controls and RGB lighting,12
+70,Redragon M711 Cobra,Mouse,1999,RGB gaming mouse with programmable buttons,24
+71,Logitech K120,Keyboards,699,Full-size wired keyboard for everyday office use,50
+72,Logitech K380,Keyboards,2999,Compact Bluetooth keyboard with multi-device support,26
+73,Logitech MX Keys Mini,Keyboards,8499,Compact wireless productivity keyboard,9
+74,HP K1500,Keyboards,799,Full-size wired keyboard for office and home use,44
+75,Dell KB216,Keyboards,899,Quiet full-size wired keyboard with numeric keypad,46
+76,Dell KM5221W,Keyboards,2499,Wireless keyboard with matching mouse for office use,20
+77,ASUS ROG Strix Scope II,Keyboards,10999,Mechanical gaming keyboard with RGB lighting,7
+78,Razer BlackWidow V3,Keyboards,9999,Mechanical gaming keyboard with RGB lighting,8
+79,Redragon K552 Kumara,Keyboards,2999,Tenkeyless mechanical gaming keyboard with RGB lighting,22
+80,Keychron K2,Keyboards,7999,Wireless mechanical keyboard with compact layout,10
+81,Samsung 25W USB-C Charger,Chargers,1299,25W USB-C fast charger for compatible Samsung devices,48
+82,Apple 20W USB-C Power Adapter,Chargers,1999,20W USB-C power adapter for iPhone and iPad,35
+83,OnePlus SUPERVOOC 80W Charger,Chargers,2499,High-wattage fast charger for compatible OnePlus devices,26
+84,Xiaomi 33W Charger,Chargers,1199,33W fast charger for compatible Xiaomi devices,38
+85,boAt W20,Chargers,999,20W compact wall charger with USB-C support,40
+86,Anker 323 Charger 33W,Chargers,2299,33W compact dual-port fast charger,24
+87,Anker 735 Charger 65W,Chargers,4999,65W GaN multi-port charger for laptops and mobile devices,14
+88,UGREEN 65W GaN Charger,Chargers,3299,65W GaN multi-port charger for laptops and phones,18
+89,Belkin BoostCharge 25W,Chargers,1799,25W USB-C fast charger for mobile devices,22
+90,Portronics Adapto 20,Chargers,899,20W USB-C fast charger for phones and tablets,45
+91,MI Power Bank 3i 10000mAh,Power Banks,999,"10,000mAh power bank with multiple charging ports",40
+92,MI Power Bank 3i 20000mAh,Power Banks,1599,"20,000mAh power bank with dual output",32
+93,Samsung 10000mAh Battery Pack,Power Banks,2499,"10,000mAh portable battery pack with USB-C",22
+94,OnePlus SUPERVOOC 10000mAh,Power Banks,1799,"10,000mAh power bank with fast charging support",24
+95,Realme 10000mAh Power Bank,Power Banks,1299,"10,000mAh portable power bank for phones",35
+96,boAt Energyshroom PB300,Power Banks,1499,"10,000mAh fast-charging power bank",30
+97,Anker PowerCore 10000,Power Banks,2299,"Compact 10,000mAh power bank for travel",20
+98,Anker PowerCore 20000,Power Banks,3299,"20,000mAh portable power bank with fast charging",15
+99,URBN 10000mAh Power Bank,Power Banks,999,"Slim 10,000mAh power bank with USB-C",42
+100,Portronics Luxcell B 10K,Power Banks,1399,"10,000mAh power bank with fast charging",28
+101,HP Prelude 15.6 Laptop Backpack,Laptop Bags,1499,15.6-inch laptop backpack with padded compartment,25
+102,Dell Essential 15 Backpack,Laptop Bags,1699,15-inch laptop backpack for office and daily travel,22
+103,Lenovo Casual Backpack 15.6,Laptop Bags,1299,15.6-inch laptop backpack with multiple compartments,28
+104,ASUS ROG Ranger BP2701,Laptop Bags,3999,Gaming laptop backpack with padded compartments,10
+105,Acer Predator Utility Backpack,Laptop Bags,2999,Gaming and travel backpack for laptops and accessories,12
+106,Targus Classic 15-16 Backpack,Laptop Bags,3499,Business laptop backpack with protective laptop sleeve,18
+107,American Tourister Urban Groove,Laptop Bags,1999,Laptop backpack with padded sleeve and organizer,24
+108,Safari Thorium Laptop Backpack,Laptop Bags,1399,Everyday laptop backpack with organizer compartments,32
+109,Wildcraft Laptop Backpack 15,Laptop Bags,1799,Durable laptop backpack for office and travel,26
+110,Lenovo ThinkPad Essential Backpack,Laptop Bags,2499,Business laptop backpack designed for ThinkPad-size devices,16
+111,Apple Watch Series 9,Smartwatches,44999,Smartwatch with fitness tracking and advanced health features,8
+112,Samsung Galaxy Watch6,Smartwatches,24999,Wear OS smartwatch with fitness and health tracking,12
+113,Samsung Galaxy Watch6 Classic,Smartwatches,34999,Premium smartwatch with rotating bezel and health tracking,7
+114,OnePlus Watch 2,Smartwatches,24999,Wear OS smartwatch with long battery life and fitness tracking,11
+115,boAt Ultima Call,Smartwatches,1799,Bluetooth smartwatch with calling and fitness tracking,30
+116,boAt Lunar Pro,Smartwatches,2999,AMOLED smartwatch with health and activity tracking,26
+117,Noise ColorFit Pro 5,Smartwatches,3499,AMOLED smartwatch with calling and fitness tracking,28
+118,Fire-Boltt Phoenix Pro,Smartwatches,1999,Bluetooth calling smartwatch with fitness features,35
+119,Amazfit GTR 4,Smartwatches,14999,GPS smartwatch with sports tracking and long battery life,10
+120,Xiaomi Watch 2 Pro,Smartwatches,29999,Wear OS smartwatch with GPS and advanced health tracking,9
+121,TP-Link Archer C6,Routers,2499,AC1200 dual-band Wi-Fi router with gigabit ports,25
+122,TP-Link Archer AX10,Routers,4299,Wi-Fi 6 router for fast home connectivity,18
+123,TP-Link Archer AX23,Routers,4999,Wi-Fi 6 dual-band router with extended coverage,16
+124,TP-Link Deco M4 2-Pack,Routers,6499,Mesh Wi-Fi system for whole-home coverage,12
+125,Tenda AC10,Routers,1799,AC1200 dual-band wireless router for home use,28
+126,Tenda AC8,Routers,1599,AC1200 gigabit wireless router,30
+127,D-Link DIR-825,Routers,2299,AC1200 dual-band Wi-Fi router with gigabit ports,22
+128,D-Link DIR-X1560,Routers,3999,Wi-Fi 6 router for connected homes,14
+129,Netgear R6120,Routers,2999,AC1200 dual-band Wi-Fi router for home networks,15
+130,Netgear Nighthawk AX1800,Routers,7999,Wi-Fi 6 router with high-speed wireless connectivity,8
+131,Samsung T7 500GB,Storage,5499,Portable external SSD with USB-C connectivity,18
+132,Samsung T7 1TB,Storage,8999,1TB portable SSD with fast USB-C transfer speeds,12
+133,SanDisk Extreme Portable SSD 1TB,Storage,9499,Rugged portable SSD designed for travel and media files,10
+134,WD My Passport 1TB,Storage,4999,Portable external hard drive for backups and storage,20
+135,WD Elements 2TB,Storage,5999,Portable 2TB external hard drive for bulk storage,16
+136,Seagate Expansion 1TB,Storage,4299,Portable 1TB external hard drive for everyday backups,24
+137,Kingston DataTraveler 128GB,Storage,799,128GB USB flash drive for everyday file transfer,50
+138,Kingston DataTraveler 256GB,Storage,1299,256GB USB flash drive for portable storage,42
+139,SanDisk Ultra Dual Drive 128GB,Storage,999,USB flash drive with USB-A and USB-C compatibility,38
+140,Crucial X9 1TB,Storage,7499,Compact 1TB portable SSD for backups and content creation,13
