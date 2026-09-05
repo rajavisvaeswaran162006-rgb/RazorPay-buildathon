@@ -46,3 +46,6 @@ ENV/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Private notes & pitch scripts
+HACKATHON_DEMO_PITCH.md
